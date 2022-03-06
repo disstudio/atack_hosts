@@ -1,21 +1,12 @@
 {
     "sites": [{
-            "id": 362,
-            "url": "https:\/\/savelife.pw/\/",
-            "need_parse_url": 1,
-            "page": "http:\/\/savelife.pw\/",
-            "page_time": 0,
-            "atack": 1
+            "page": "http:\/\/my.bank-hlynov.ru"
         }, {
-            "page": "https:\/\/lukoil.com"
+            "page": "https:\/\/link.centrinvest.ru"
         }, {
-            "page": "https:\/\/www.gazprom.ru"
+            "page": "http:\/\/chbrr.crimea.com"
         }, {
-            "page": "http:\/\/nlmk.com"
-        }, {
-            "page": "https:\/\/tektorg.ru"
-        }, {
-            "page": "https:\/\/gbo.gazprombank.ru\/"
+            "page": "https:\/\/enter.unicredit.ru"
         }
     ],
     "proxy": [{
