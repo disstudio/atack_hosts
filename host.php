@@ -1,9 +1,9 @@
 {
     "sites": [
         {
-            "page": "https:\/\/iz.ru"
+            "page": "https:\/\/iz.ru\/1301831"
         }, {
-            "page": "https:\/\/xaknet.team/help.html"
+            "page": "https:\/\/xaknet.team\/help.html"
         }
     ],
     "proxy": [{
