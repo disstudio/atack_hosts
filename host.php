@@ -1,30 +1,9 @@
 {
-    "sites": [{
-            "page": "https:\/\/www.astrobl.ru"
+    "sites": [
+        {
+            "page": "https:\/\/iz.ru"
         }, {
-            "page": "https:\/\/www.volgograd.ru"
-        }, {
-            "page": "http:\/\/www.admoblkaluga.ru"
-        }, {
-            "page": "https:\/\/apparat.lenobl.ru"
-        }, {
-            "page": "https:\/\/mosreg.ru"
-        }, {
-            "page": "https:\/\/orel-region.ru"
-        }, {
-            "page": "http:\/\/midural.ru"
-        }, {
-            "page": "http:\/\/www.tula.ru"
-        }, {
-            "page": "https:\/\/ulgov.ru"
-        }, {
-            "page": "https:\/\/cheladmin.ru"
-        }, {
-            "page": "https:\/\/krd.ru"
-        }, {
-            "page": "https:\/\/www.stavregion.ru"
-        }, {
-            "page": "https://xaknet.team/help.html"
+            "page": "https:\/\/xaknet.team/help.html"
         }
     ],
     "proxy": [{
