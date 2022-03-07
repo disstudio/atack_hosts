@@ -1,6 +1,6 @@
 {
     "sites": [{
-            "page": "httpы:\/\/www.astrobl.ru"
+            "page": "https:\/\/www.astrobl.ru"
         }, {
             "page": "https:\/\/www.volgograd.ru"
         }, {
