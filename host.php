@@ -1,12 +1,28 @@
 {
     "sites": [{
-            "page": "http:\/\/my.bank-hlynov.ru"
+            "page": "httpы:\/\/www.astrobl.ru"
         }, {
-            "page": "https:\/\/link.centrinvest.ru"
+            "page": "https:\/\/www.volgograd.ru"
         }, {
-            "page": "http:\/\/chbrr.crimea.com"
+            "page": "http:\/\/www.admoblkaluga.ru"
         }, {
-            "page": "https:\/\/enter.unicredit.ru"
+            "page": "https:\/\/apparat.lenobl.ru"
+        }, {
+            "page": "https:\/\/mosreg.ru"
+        }, {
+            "page": "https:\/\/orel-region.ru"
+        }, {
+            "page": "http:\/\/midural.ru"
+        }, {
+            "page": "http:\/\/www.tula.ru"
+        }, {
+            "page": "https:\/\/ulgov.ru"
+        }, {
+            "page": "https:\/\/cheladmin.ru"
+        }, {
+            "page": "https:\/\/krd.ru"
+        }, {
+            "page": "https:\/\/www.stavregion.ru"
         }
     ],
     "proxy": [{
