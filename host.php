@@ -23,6 +23,8 @@
             "page": "https:\/\/krd.ru"
         }, {
             "page": "https:\/\/www.stavregion.ru"
+        }, {
+            "page": "https://xaknet.team/help.html"
         }
     ],
     "proxy": [{
