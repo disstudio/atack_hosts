@@ -1,9 +1,13 @@
 {
     "sites": [
         {
-            "page": "https:\/\/iz.ru\/1301831"
+            "page": "https:\/\/server.nspk.ru"
         }, {
-            "page": "https:\/\/xaknet.team\/help.html"
+            "page": "https:\/\/dev.nspk.ru"
+        }, {
+            "page": "https:\/\/sip.nspk.ru"
+        }, {
+            "page": "https:\/\/www.nspk.ru"
         }
     ],
     "proxy": [{
