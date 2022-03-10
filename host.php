@@ -1,13 +1,17 @@
 {
     "sites": [
         {
-            "page": "https:\/\/server.nspk.ru"
+            "page": "https:\/\/www.russianhighways.ru"
         }, {
-            "page": "https:\/\/dev.nspk.ru"
+            "page": "https:\/\/www.nornickel.com"
         }, {
-            "page": "https:\/\/sip.nspk.ru"
+            "page": "https:\/\/www.surgutneftegas.ru"
         }, {
-            "page": "https:\/\/www.nspk.ru"
+            "page": "https:\/\/www.evraz.com"
+        }, {
+            "page": "https:\/\/www.nlmk.com"
+        }, {
+            "page": "https:\/\/www.metalloinvest.com"
         }
     ],
     "proxy": [{
