@@ -1,13 +1,9 @@
 {
     "sites": [
         {
-            "page": "https:\/\/www.russianhighways.ru"
-        }, {
             "page": "https:\/\/www.nornickel.com"
         }, {
             "page": "https:\/\/www.surgutneftegas.ru"
-        }, {
-            "page": "https:\/\/www.evraz.com"
         }, {
             "page": "https:\/\/www.nlmk.com"
         }, {
