@@ -1,13 +1,11 @@
 {
     "sites": [
         {
-            "page": "https:\/\/www.nornickel.com"
+            "page": "https:\/\/iecp.ru/ep/ep-verification"
         }, {
-            "page": "https:\/\/www.surgutneftegas.ru"
+            "page": "https:\/\/uc-osnovanie.ru/"
         }, {
-            "page": "https:\/\/www.nlmk.com"
-        }, {
-            "page": "https:\/\/www.metalloinvest.com"
+            "page": "https:\/\/fas.gov.ru/"
         }
     ],
     "proxy": [{
