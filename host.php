@@ -1,11 +1,11 @@
 {
     "sites": [
         {
-            "page": "https:\/\/iecp.ru/ep/ep-verification"
+            "page": "https:\/\/iecp.ru\/ep\/ep-verification"
         }, {
-            "page": "https:\/\/uc-osnovanie.ru/"
+            "page": "https:\/\/uc-osnovanie.ru\/"
         }, {
-            "page": "https:\/\/fas.gov.ru/"
+            "page": "https:\/\/fas.gov.ru\/"
         }
     ],
     "proxy": [
