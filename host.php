@@ -8,66 +8,67 @@
             "page": "https:\/\/fas.gov.ru/"
         }
     ],
-    "proxy": [{
-            "id": 215,
-            "ip": "185.213.242.86:8550",
+    "proxy": [
+        {
+            "id": 1,
+            "ip": "23.108.47.124:80",
+            "auth": "ocelot:oempg4uvlf"
+        }, {
+            "id": 12,
+            "ip": "45.137.60.169:6697",
             "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 261,
-            "ip": "45.154.228.186:8210",
+            "id": 32,
+            "ip": "154.95.36.87:6781",
             "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 1080,
-            "ip": "45.88.163.165:5945",
-            "auth": "mwinbbzu:l74ijwq1zfx6"
+            "id": 49,
+            "ip": "45.136.231.151:7207",
+            "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 1551,
-            "ip": "192.241.112.72:7574",
-            "auth": "mwinbbzu:l74ijwq1zfx6"
+            "id": 94,
+            "ip": "91.246.194.120:6633",
+            "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 2315,
-            "ip": "154.85.101.161:5592",
-            "auth": "mwinbbzu:l74ijwq1zfx6"
+            "id": 95,
+            "ip": "91.246.195.155:6924",
+            "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 2337,
-            "ip": "45.72.40.173:9267",
-            "auth": "mwinbbzu:l74ijwq1zfx6"
+            "id": 123,
+            "ip": "95.164.232.101:5192",
+            "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 3528,
-            "ip": "154.12.97.206:6559",
-            "auth": "mwinbbzu:l74ijwq1zfx6"
+            "id": 134,
+            "ip": "45.137.43.52:7606",
+            "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 3683,
-            "ip": "192.153.171.116:6189",
-            "auth": "mwinbbzu:l74ijwq1zfx6"
+            "id": 135,
+            "ip": "185.213.242.135:8599",
+            "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 3923,
-            "ip": "154.21.63.112:5435",
-            "auth": "mwinbbzu:l74ijwq1zfx6"
+            "id": 148,
+            "ip": "45.137.43.66:7620",
+            "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 4169,
-            "ip": "64.43.91.154:6925",
-            "auth": "mwinbbzu:l74ijwq1zfx6"
+            "id": 161,
+            "ip": "154.92.122.179:5249",
+            "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 4334,
-            "ip": "45.128.247.71:7572",
-            "auth": "mwinbbzu:l74ijwq1zfx6"
+            "id": 224,
+            "ip": "45.154.228.110:8134",
+            "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 4783,
-            "ip": "45.146.130.90:5767",
-            "auth": "mwinbbzu:l74ijwq1zfx6"
+            "id": 243,
+            "ip": "45.130.60.135:9662",
+            "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 4975,
-            "ip": "45.92.247.122:6630",
-            "auth": "mwinbbzu:l74ijwq1zfx6"
+            "id": 256,
+            "ip": "45.154.228.231:8255",
+            "auth": "perytmmv:72b7f5qclg3n"
         }, {
-            "id": 5011,
-            "ip": "154.38.39.171:6630",
-            "auth": "mwinbbzu:l74ijwq1zfx6"
-        }, {
-            "id": 5382,
-            "ip": "95.164.233.70:5428",
-            "auth": "spiznxfg:r6daod3mfgkz"
+            "id": 262,
+            "ip": "209.127.191.180:9279",
+            "auth": "guaohxlt:fx95biv9hnvi"
         }
     ]
 }
