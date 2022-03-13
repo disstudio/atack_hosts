@@ -1,11 +1,35 @@
 {
     "sites": [
         {
-            "page": "https:\/\/iecp.ru\/ep\/ep-verification"
+            "page": "http:\/\/alfabank.ru"
         }, {
-            "page": "https:\/\/uc-osnovanie.ru\/"
+            "page": "http:\/\/217.12.104.100"
         }, {
-            "page": "https:\/\/fas.gov.ru\/"
+            "page": "http:\/\/92.38.145.145"
+        }, {
+            "page": "https:\/\/92.38.145.145"
+        }, {
+            "page": "https:\/\/92.38.145.145:444"
+        }, {
+            "page": "http:\/\/91.109.201.82"
+        }, {
+            "page": "https:\/\/91.109.201.82"
+        }, {
+            "page": "https:\/\/51.250.11.228:443"
+        }, {
+            "page": "http:\/\/142.250.190.147"
+        }, {
+            "page": "http:\/\/185.10.185.150"
+        }, {
+            "page": "https:\/\/185.10.185.150"
+        }, {
+            "page": "https:\/\/193.104.87.172"
+        }, {
+            "page": "http:\/\/193.104.87.172"
+        }, {
+            "page": "http:\/\/194.84.25.79"
+        }, {
+            "page": "https:\/\/194.84.25.79"
         }
     ],
     "proxy": [
