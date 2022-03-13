@@ -1,9 +1,9 @@
 {
     "sites": [
         {
-            "page": "http:\/\/alfabank.ru"
+            "page": "https:\/\/alfabank.ru"
         }, {
-            "page": "http:\/\/217.12.104.100"
+            "page": "https:\/\/217.12.104.100"
         }, {
             "page": "http:\/\/92.38.145.145"
         }, {
