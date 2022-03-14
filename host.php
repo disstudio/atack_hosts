@@ -11,8 +11,6 @@
         }, {
             "page": "https:\/\/92.38.145.145:444"
         }, {
-            "page": "http:\/\/91.109.201.82"
-        }, {
             "page": "https:\/\/91.109.201.82"
         }, {
             "page": "https:\/\/51.250.11.228:443"
@@ -27,9 +25,15 @@
         }, {
             "page": "http:\/\/193.104.87.172"
         }, {
-            "page": "http:\/\/194.84.25.79"
-        }, {
             "page": "https:\/\/194.84.25.79"
+        }, {
+            "page": "http:\/\/koronapay.com"
+        }, {
+            "page": "http:\/\/api.koronapay.com"
+        }, {
+            "page": "https:\/\/koronapay.com"
+        }, {
+            "page": "https:\/\/api.koronapay.com"
         }
     ],
     "proxy": [
