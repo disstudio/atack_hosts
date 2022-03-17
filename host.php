@@ -1,39 +1,25 @@
 {
     "sites": [
         {
-            "page": "https:\/\/alfabank.ru"
+            "page": "https:\/\/5.8.79.230"
         }, {
-            "page": "https:\/\/217.12.104.100"
+            "page": "https:\/\/195.93.246.165"
         }, {
-            "page": "http:\/\/92.38.145.145"
+            "page": "https:\/\/81.19.72.39"
         }, {
-            "page": "https:\/\/92.38.145.145"
+            "page": "https:\/\/95.163.95.9"
         }, {
-            "page": "https:\/\/92.38.145.145:444"
+            "page": "https:\/\/80.93.184.78"
         }, {
-            "page": "https:\/\/91.109.201.82"
+            "page": "https:\/\/81.19.72.3"
         }, {
-            "page": "https:\/\/51.250.11.228:443"
+            "page": "https:\/\/82.202.190.72"
         }, {
-            "page": "http:\/\/142.250.190.147"
+            "page": "https:\/\/194.190.37.226"
         }, {
-            "page": "http:\/\/185.10.185.150"
+            "page": "https:\/\/194.190.37.228"
         }, {
-            "page": "https:\/\/185.10.185.150"
-        }, {
-            "page": "https:\/\/193.104.87.172"
-        }, {
-            "page": "http:\/\/193.104.87.172"
-        }, {
-            "page": "https:\/\/194.84.25.79"
-        }, {
-            "page": "http:\/\/koronapay.com"
-        }, {
-            "page": "http:\/\/api.koronapay.com"
-        }, {
-            "page": "https:\/\/koronapay.com"
-        }, {
-            "page": "https:\/\/api.koronapay.com"
+            "page": "https:\/\/194.190.37.234"
         }
     ],
     "proxy": [
