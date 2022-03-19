@@ -2,6 +2,24 @@
     "sites": [
         {
             "page": "https:\/\/www.tutu.ru"
+        },
+        {
+            "page": "https:\/\/eda.yandex.ru\/"
+        },
+        {
+            "page": "https:\/\/www.delivery-club.ru\/"
+        },
+        {
+            "page": "https:\/\/m-food.ru\/"
+        },
+        {
+            "page": "https:\/\/sbermarket.ru\/"
+        },
+        {
+            "page": "https:\/\/chibbis.ru\/"
+        },
+        {
+            "page": "https:\/\/lavka.yandex\/"
         }
     ],
     "proxy": [
