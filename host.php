@@ -1,6 +1,10 @@
 {
     "sites": [
         {
+            "page": "194.54.14.131"
+            "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
+        },
+        {
             "page": "https:\/\/www.tutu.ru"
         },
         {
