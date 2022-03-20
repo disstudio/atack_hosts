@@ -5,25 +5,24 @@
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "https:\/\/www.tutu.ru"
+            "page": "195.19.96.198",
+            "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "https:\/\/eda.yandex.ru\/"
+            "page": "212.40.192.70",
+            "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "https:\/\/www.delivery-club.ru\/"
+            "page": "46.235.53.117",
+            "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "https:\/\/m-food.ru\/"
+            "page": "54.247.107.64",
+            "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "https:\/\/sbermarket.ru\/"
-        },
-        {
-            "page": "https:\/\/chibbis.ru\/"
-        },
-        {
-            "page": "https:\/\/lavka.yandex\/"
+            "page": "185.183.120.132",
+            "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         }
     ],
     "proxy": [
