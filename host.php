@@ -45,7 +45,7 @@
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "emmaraiman.ru"
+            "page": "https:\/\/emmaraiman.ru"
         }
     ],
     "proxy": [
