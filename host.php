@@ -43,6 +43,9 @@
         {
             "page": "178.238.112.83",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
+        },
+        {
+            "page": "emmaraiman.ru"
         }
     ],
     "proxy": [
