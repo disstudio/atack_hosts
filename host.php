@@ -1,27 +1,47 @@
 {
     "sites": [
         {
-            "page": "194.54.14.131",
+            "page": "193.37.157.24",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "195.19.96.198",
+            "page": "193.0.214.42",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "212.40.192.70",
+            "page": "193.0.214.242",
+            "points": [{"protocol":"tcp","port":25},{"protocol":"tcp","port":80},{"protocol":"tcp","port":110},{"protocol":"tcp","port":443},{"protocol":"tcp","port":5025}]
+        },
+        {
+            "page": "91.213.144.43",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "46.235.53.117",
+            "page": "213.109.72.155",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "54.247.107.64",
+            "page": "217.21.220.247",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "185.183.120.132",
+            "page": "46.17.202.70",
+            "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
+        },
+        {
+            "page": "46.17.202.90",
+            "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
+        },
+        {
+            "page": "46.48.118.29",
+            "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
+        },
+        {
+            "page": "62.76.102.63",
+            "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
+        },
+        {
+            "page": "178.238.112.83",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         }
     ],
