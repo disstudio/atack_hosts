@@ -1,51 +1,40 @@
 {
     "sites": [
         {
-            "page": "193.37.157.24",
+            "page": "185.165.123.70",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "193.0.214.42",
+            "page": "185.165.123.97",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "193.0.214.242",
-            "points": [{"protocol":"tcp","port":25},{"protocol":"tcp","port":80},{"protocol":"tcp","port":110},{"protocol":"tcp","port":443},{"protocol":"tcp","port":5025}]
-        },
-        {
-            "page": "91.213.144.43",
+            "page": "151.236.114.7",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "213.109.72.155",
+            "page": "151.236.114.6",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "217.21.220.247",
+            "page": "91.232.93.70",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "46.17.202.70",
+            "page": "178.248.232.47",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "46.17.202.90",
+            "page": "213.5.80.180",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "46.48.118.29",
+            "page": "178.248.233.105",
             "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         },
         {
-            "page": "62.76.102.63",
-            "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
-        },
-        {
-            "page": "178.238.112.83",
-            "points": [{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
-        },
-        {
-            "page": "https:\/\/emmaraiman.ru"
+            "page": "212.45.15.218",
+            "points": [{"protocol":"tcp","port":25},{"protocol":"tcp","port":80},{"protocol":"tcp","port":443}]
         }
     ],
     "proxy": [
