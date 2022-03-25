@@ -1,7 +1,7 @@
-{
+ {
     "sites": [
         {
-            "page": "91.206.121.124",
+            "page": "185.165.123.206",
             "points": [
                 {
                     "port": 80,
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "page": "194.85.30.210",
+            "page": "194.49.120.60",
             "points": [
                 {
                     "port": 80,
@@ -27,7 +27,24 @@
             ]
         },
         {
-            "page": "212.164.137.137",
+            "page": "195.189.222.41",
+            "points": [
+                {
+                    "port": 25,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ]
+        },
+        {
+            "page": "194.49.120.61",
             "points": [
                 {
                     "port": 80,
@@ -40,7 +57,45 @@
             ]
         },
         {
-            "page": "217.107.75.18",
+            "page": "194.49.121.18",
+            "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 3389,
+                    "protocol": "tcp"
+                }
+            ]
+        },
+        {
+            "page": "195.189.222.60",
+            "points": [
+                {
+                    "port": 25,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 465,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 993,
+                    "protocol": "tcp"
+                }
+            ]
+        },
+        {
+            "page": "185.165.123.200",
             "points": [
                 {
                     "port": 80,
@@ -49,6 +104,44 @@
                 {
                     "port": 443,
                     "protocol": "tcp"
+                }
+            ]
+        },
+        {
+            "page": "195.189.222.19",
+            "points": [
+                {
+                    "port": 53,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 179,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 53,
+                    "protocol": "udp"
+                }
+            ]
+        },
+        {
+            "page": "195.189.222.1",
+            "points": [
+                {
+                    "port": 53,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 179,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 2224,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 53,
+                    "protocol": "udp"
                 }
             ]
         }
