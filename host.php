@@ -419,7 +419,7 @@
                     "protocol": "tcp"
                 }
             ]
-        },
+        }
     ],
     "proxy": [
         {
