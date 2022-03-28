@@ -1,6 +1,5 @@
 {
     "sites": [
-        {"page": "https:\/\/rossgram.ru\/"},
         {
             "page": "193.148.44.189",
             "points": [
