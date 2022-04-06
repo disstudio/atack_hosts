@@ -1,7 +1,7 @@
 {
     "sites": [
         {
-            "page": "178.248.238.208",
+            "page": "185.71.67.137",
             "points": [
                 {
                     "port": 80,
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "page": "178.248.236.155",
+            "page": "185.31.134.104",
             "points": [
                 {
                     "port": 80,
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "page": "178.248.238.184",
+            "page": "185.31.134.103",
             "points": [
                 {
                     "port": 80,
@@ -36,57 +36,6 @@
                 {
                     "port": 443,
                     "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "178.248.238.63",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "195.189.222.1",
-            "points": [
-                {
-                    "port": 53,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 179,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 2224,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 53,
-                    "protocol": "udp"
-                }
-            ]
-        },
-        {
-            "page": "195.189.222.19",
-            "points": [
-                {
-                    "port": 53,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 179,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 53,
-                    "protocol": "udp"
                 }
             ]
         }
