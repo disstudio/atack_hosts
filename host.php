@@ -1,46 +1,7 @@
 {
     "sites": [
         {
-            "page": "81.177.156.250",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "178.248.238.75",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "81.177.156.195",
-            "points": [
-                {
-                    "port": 25,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "81.211.33.101",
+            "page": "46.17.203.154",
             "points": [
                 {
                     "port": 22,
@@ -54,10 +15,11 @@
                     "port": 443,
                     "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "e-kontur.ru"
         },
         {
-            "page": "212.193.156.175",
+            "page": "46.17.203.41",
             "points": [
                 {
                     "port": 80,
@@ -67,10 +29,11 @@
                     "port": 443,
                     "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "elba.kontur.ru\/AccessControl\/Login"
         },
         {
-            "page": "212.193.146.216",
+            "page": "46.17.206.15",
             "points": [
                 {
                     "port": 80,
@@ -80,49 +43,11 @@
                     "port": 443,
                     "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "auth.kontur.ru"
         },
         {
-            "page": "46.235.185.186",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "46.235.185.75",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "46.235.187.127",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "62.76.27.135",
+            "page": "46.17.203.51",
             "points": [
                 {
                     "port": 80,
@@ -132,94 +57,11 @@
                     "port": 443,
                     "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "install.kontur.ru"
         },
         {
-            "page": "5.200.52.193",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 3389,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 5985,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "193.176.79.101",
-            "points": [
-                {
-                    "port": 22,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8080,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "5.188.150.190",
-            "points": [
-                {
-                    "port": 22,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8888,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "5.200.52.193",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 3389,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 5985,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "212.193.155.253",
+            "page": "46.17.203.102",
             "points": [
                 {
                     "port": 80,
@@ -229,10 +71,11 @@
                     "port": 443,
                     "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "kontur.ru"
         },
         {
-            "page": "37.220.163.158",
+            "page": "46.17.203.45",
             "points": [
                 {
                     "port": 80,
@@ -242,10 +85,11 @@
                     "port": 443,
                     "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "api.kontur.ru\/csi\/support\/v1\/public\/integrations\/zakupki"
         },
         {
-            "page": "212.193.153.139",
+            "page": "46.17.203.73",
             "points": [
                 {
                     "port": 80,
@@ -255,10 +99,11 @@
                     "port": 443,
                     "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "zakupki.kontur.ru"
         },
         {
-            "page": "93.93.89.150",
+            "page": "46.17.204.249",
             "points": [
                 {
                     "port": 80,
@@ -268,10 +113,11 @@
                     "port": 443,
                     "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "pf.kontur.ru"
         },
         {
-            "page": "87.226.155.212",
+            "page": "46.17.203.51",
             "points": [
                 {
                     "port": 80,
@@ -281,36 +127,53 @@
                     "port": 443,
                     "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "help.kontur.ru"
         },
         {
-            "page": "212.193.153.140",
+            "page": "46.17.206.13",
             "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
                 {
                     "port": 80,
                     "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "93.93.89.153",
-            "points": [
+                },
                 {
                     "port": 443,
                     "protocol": "tcp"
-                },
+                }
+            ],
+            "url": "focus-api.kontur.ru"
+        },
+        {
+            "page": "46.17.203.72",
+            "points": [
                 {
                     "port": 80,
                     "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "ff.kontur.ru"
         },
         {
-            "page": "95.131.27.119",
+            "page": "46.17.203.41",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "elbank.kontur.ru"
+        },
+        {
+            "page": "46.17.203.154",
             "points": [
                 {
                     "port": 22,
@@ -324,100 +187,14 @@
                     "port": 443,
                     "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "www.b-kontur.ru"
         },
         {
-            "page": "185.169.155.118",
+            "page": "46.17.203.229",
             "points": [
                 {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "178.18.218.45",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "151.236.80.51",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "178.170.242.84",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "178.18.218.26",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "151.236.80.50",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "178.18.218.45",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ]
-        },
-        {
-            "page": "91.242.33.252",
-            "points": [
-                {
-                    "port": 25,
+                    "port": 22,
                     "protocol": "tcp"
                 },
                 {
@@ -428,13 +205,42 @@
                     "port": 443,
                     "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "evrika.kontur.ru"
         },
         {
-            "page": "46.165.229.240",
+            "page": "46.17.203.250",
             "points": [
                 {
-                    "port": 25,
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "cabinet.kontur.ru"
+        },
+        {
+            "page": "46.17.203.131",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "ca.kontur.ru"
+        },
+        {
+            "page": "46.17.203.154",
+            "points": [
+                {
+                    "port": 22,
                     "protocol": "tcp"
                 },
                 {
@@ -445,7 +251,8 @@
                     "port": 443,
                     "protocol": "tcp"
                 }
-            ]
+            ],
+            "url": "www.kontur-extern.ru"
         }
     ],
     "proxy": [
