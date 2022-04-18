@@ -1,7 +1,7 @@
 {
     "sites": [
         {
-            "page": "82.202.190.212",
+            "page": "62.76.145.81",
             "points": [
                 {
                     "port": 80,
@@ -12,10 +12,10 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "www.crpt.ru"
+            "url": "mercury.vetrf.ru"
         },
         {
-            "page": "91.230.251.101",
+            "page": "62.76.145.80",
             "points": [
                 {
                     "port": 80,
@@ -26,10 +26,10 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "edo-gismt.crpt.ru"
+            "url": "api.vetrf.ru"
         },
         {
-            "page": "91.230.251.71",
+            "page": "62.76.145.85",
             "points": [
                 {
                     "port": 80,
@@ -40,10 +40,10 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "edo-gismt.crpt.ru"
+            "url": "api2.vetrf.ru"
         },
         {
-            "page": "91.230.251.77",
+            "page": "62.76.145.83",
             "points": [
                 {
                     "port": 80,
@@ -54,105 +54,7 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "suzgrid.crpt.ru\/login"
-        },
-        {
-            "page": "91.230.251.99",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "suz2.crpt.ru"
-        },
-        {
-            "page": "91.230.251.70",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "api.mdlp.crpt.ru"
-        },
-        {
-            "page": "78.142.221.17",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "kb.crpt.ru"
-        },
-        {
-            "page": "91.230.251.81",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "nrz.api.sb.mdlp.crpt.ru"
-        },
-        {
-            "page": "91.230.251.82",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "api.sb.mdlp.crpt.ru"
-        },
-        {
-            "page": "91.230.251.78",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai\/v3\/feed-product?apikey=6A9769C235F234>in=63649273152709"
-        },
-        {
-            "page": "91.230.251.79",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "xn--80aqu.xn----7sbabas4ajkhfocclk9d3cvfsa.xn--p1ai\/v3\/feed-product?apikey=6A9769C235F234>in=63649273152709"
+            "url": "idp.vetrf.ru\/idp\/profile\/SAML2\/POST\/SSO?execution=e1s1"
         }
     ],
     "proxy": [
