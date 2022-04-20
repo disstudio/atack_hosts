@@ -1,282 +1,209 @@
 {
     "sites": [
         {
-            "page": "www.aviasales.ru"
+            "page": "www.1-ofd.ru"
         },
         {
-            "page": "www.aviasales.ru"
+            "page": "k-server.1-ofd.ru"
         },
         {
-            "page": "aviasales.ru"
+            "page": "www.taxcom.ru"
         },
         {
-            "page": "b2b.aviasales.ru"
+            "page": "lk-ofd.taxcom.ru"
         },
         {
-            "page": "calendar.aviasales.ru"
+            "page": "www.ofd.ru"
         },
         {
-            "page": "tickets.aviasales.ru"
+            "page": "www.e-ofd.ru"
         },
         {
-            "page": "search.aviasales.ru"
+            "page": "ofd-magnit.ru"
         },
         {
-            "page": "7.aviasales.ru"
+            "page": "kkttst.ofd-magnit.ru\/CheckWebApp\/fiscaldocsearch.zul"
         },
         {
-            "page": "wwb1a.beta.aviasales.ru"
+            "page": "www.garantexpress.ru"
         },
         {
-            "page": "freeipa.beta.aviasales.ru"
-        },
-        {
-            "page": "193.24.8.15",
+            "page": "193.19.169.36",
             "points": [
                 {
-                    "port": 80,
+                    "port": 7001,
                     "protocol": "tcp"
                 },
                 {
-                    "port": 443,
+                    "port": 7005,
                     "protocol": "tcp"
                 }
             ],
-            "url": "nordwindairlines.ru\/ru"
+            "url": "kkt.ofd-magnit.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "85.31.123.212",
+            "page": "217.118.87.210",
             "points": [
                 {
-                    "port": 80,
+                    "port": 7765,
                     "protocol": "tcp"
                 },
                 {
-                    "port": 443,
+                    "port": 8765,
                     "protocol": "tcp"
                 }
             ],
-            "url": "cas.nordwindairlines.ru\/nwa\/index.nwa?ResX=1180?ResY=932"
+            "url": "ofd.beeline.ru\/kkt-list"
         },
         {
-            "page": "85.31.124.50",
+            "page": "92.38.2.200",
             "points": [
                 {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
+                    "port": 7777,
                     "protocol": "tcp"
                 }
             ],
-            "url": "appletest.nordwindairlines.ru"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "85.31.126.157",
+            "page": "91.107.114.11",
             "points": [
                 {
-                    "port": 80,
+                    "port": 7777,
                     "protocol": "tcp"
                 },
                 {
-                    "port": 443,
+                    "port": 7788,
                     "protocol": "tcp"
                 }
             ],
-            "url": "lydia.nordwindairlines.ru\/SKYPSS\/index.jsp"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "85.31.124.232",
+            "page": "185.170.204.91",
             "points": [
                 {
-                    "port": 80,
+                    "port": 21101,
                     "protocol": "tcp"
                 },
                 {
-                    "port": 443,
+                    "port": 21102,
                     "protocol": "tcp"
                 }
             ],
-            "url": "legal.nordwindairlines.ru\/login"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "37.220.162.162",
+            "page": "193.0.214.11",
             "points": [
                 {
-                    "port": 80,
+                    "port": 7777,
                     "protocol": "tcp"
                 },
                 {
-                    "port": 443,
+                    "port": 8777,
                     "protocol": "tcp"
                 }
             ],
-            "url": "www.aeroflot.ru\/ru-ru"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "80.92.36.160",
+            "page": "91.239.5.68",
             "points": [
                 {
-                    "port": 80,
+                    "port": 7777,
                     "protocol": "tcp"
                 }
             ],
-            "url": "ppls-vc.aeroflot.ru\/system\/login?domain=ppls-vc.f5.aeroflot.ru&next"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "78.155.201.8",
+            "page": "94.143.160.11",
             "points": [
                 {
-                    "port": 22,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8090,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8090,
-                    "protocol": "http"
-                }
-            ],
-            "url": "track.aeroflot.ru"
-        },
-        {
-            "page": "80.92.36.6",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8060,
+                    "port": 4000,
                     "protocol": "tcp"
                 }
             ],
-            "url": "click.aeroflot.ru"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "80.92.37.14",
+            "page": "94.143.160.19",
             "points": [
                 {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 5060,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 5061,
+                    "port": 7000,
                     "protocol": "tcp"
                 }
             ],
-            "url": "join.cms.aeroflot.ru\/ru-RU\/home"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "80.92.36.74",
+            "page": "91.213.144.29",
             "points": [
                 {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
+                    "port": 7777,
                     "protocol": "tcp"
                 }
             ],
-            "url": "mobprd.aeroflot.ru"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "178.159.249.161",
+            "page": "185.32.186.252",
             "points": [
                 {
-                    "port": 25,
+                    "port": 12345,
                     "protocol": "tcp"
                 },
                 {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
+                    "port": 54321,
                     "protocol": "tcp"
                 }
             ],
-            "url": "azimuth.aero\/ru"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "109.238.243.245",
+            "page": "212.8.238.73",
             "points": [
                 {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
+                    "port": 9999,
                     "protocol": "tcp"
                 }
             ],
-            "url": "agents.azimuth.aero"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "109.238.243.253",
+            "page": "176.122.30.30",
             "points": [
                 {
-                    "port": 80,
+                    "port": 7777,
                     "protocol": "tcp"
                 },
                 {
-                    "port": 443,
+                    "port": 5555,
                     "protocol": "tcp"
                 }
             ],
-            "url": "agents.azimuth.aero"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "92.53.126.171",
+            "page": "31.44.83.188",
             "points": [
                 {
-                    "port": 21,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
+                    "port": 31101,
                     "protocol": "tcp"
                 }
             ],
-            "url": "kiyaviakrym.com"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         },
         {
-            "page": "213.189.217.114",
+            "page": "31.44.83.184",
             "points": [
                 {
-                    "port": 22,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
+                    "port": 26101,
                     "protocol": "tcp"
                 }
             ],
-            "url": "rov.aero"
+            "url": "ofd.esphere.ru\/CheckWebApp\/login.zul"
         }
     ],
     "proxy": [
