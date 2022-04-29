@@ -1,7 +1,7 @@
 {
     "sites": [
         {
-            "page": "79.171.117.82",
+            "page": "217.175.24.112",
             "points": [
                 {
                     "port": 80,
@@ -12,10 +12,10 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "www.b2b-center.ru\/market"
+            "url": "career.severstal.com"
         },
         {
-            "page": "178.248.234.36",
+            "page": "217.175.23.240",
             "points": [
                 {
                     "port": 80,
@@ -26,10 +26,10 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "www.fabrikant.ru\/services"
+            "url": "distribution.severstal.com"
         },
         {
-            "page": "213.171.56.148",
+            "page": "78.41.110.139",
             "points": [
                 {
                     "port": 80,
@@ -40,10 +40,10 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "astgoz.ru\/page\/index"
+            "url": "market.severstal.com\/ru\/ru"
         },
         {
-            "page": "185.84.184.2",
+            "page": "217.175.24.107",
             "points": [
                 {
                     "port": 80,
@@ -54,10 +54,10 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "otc.ru\/tenders\/companies\/search"
+            "url": "suppliers.severstal.com\/en-old"
         },
         {
-            "page": "185.84.184.5",
+            "page": "217.175.24.109",
             "points": [
                 {
                     "port": 80,
@@ -68,10 +68,10 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "api.new-market.otc.ru"
+            "url": "innovations.severstal.com"
         },
         {
-            "page": "185.84.184.6",
+            "page": "217.175.24.27",
             "points": [
                 {
                     "port": 80,
@@ -82,10 +82,10 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "api.market.otc.ru"
+            "url": "bt.severstal.com"
         },
         {
-            "page": "83.69.207.146",
+            "page": "217.175.24.86",
             "points": [
                 {
                     "port": 80,
@@ -96,11 +96,15 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "api.market-stable.otc.ru"
+            "url": "staffing.severstal.com\/auth"
         },
         {
-            "page": "185.84.184.11",
+            "page": "178.154.246.131",
             "points": [
+                {
+                    "port": 22,
+                    "protocol": "tcp"
+                },
                 {
                     "port": 80,
                     "protocol": "tcp"
@@ -108,12 +112,16 @@
                 {
                     "port": 443,
                     "protocol": "tcp"
+                },
+                {
+                    "port": 9100,
+                    "protocol": "tcp"
                 }
             ],
-            "url": "crm.otc.ru"
+            "url": "lk.mph.severstal.com\/login"
         },
         {
-            "page": "176.212.125.107",
+            "page": "217.175.24.94",
             "points": [
                 {
                     "port": 80,
@@ -122,16 +130,12 @@
                 {
                     "port": 443,
                     "protocol": "tcp"
-                },
-                {
-                    "port": 8080,
-                    "protocol": "tcp"
                 }
             ],
-            "url": "ca.otc.ru"
+            "url": "bstest.severstal.com\/login.action"
         },
         {
-            "page": "185.179.85.62",
+            "page": "217.175.24.112",
             "points": [
                 {
                     "port": 80,
@@ -142,109 +146,119 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "www.rts-tender.ru\/poisk"
+            "url": "chermk.severstal.com"
         },
         {
-            "page": "79.171.117.80",
+            "page": "217.175.24.79",
             "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
                 {
                     "port": 443,
                     "protocol": "tcp"
                 }
             ],
-            "url": "www.rosatom.rts-tender.ru"
+            "url": "chermk.severstal.com"
         },
         {
-            "page": "185.179.85.65",
+            "page": "217.175.23.242",
             "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
                 {
                     "port": 443,
                     "protocol": "tcp"
                 }
             ],
-            "url": "app.rts-tender.ru\/auth\/sso\/login\/participant?ReturnUrl=https%3a%2f%2fapp.rts-tender.ru%2fsupplier%2flk%2f&sso=1&code"
+            "url": "chermk.severstal.com"
         },
         {
-            "page": "185.179.85.58",
+            "page": "217.175.23.8",
             "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
                 {
                     "port": 443,
                     "protocol": "tcp"
                 }
             ],
-            "url": "223.rts-tender.ru\/supplier\/sso\/Login.aspx?ReturnUrl"
+            "url": "chermk.severstal.com"
         },
         {
-            "page": "185.179.85.34",
+            "page": "217.175.24.189",
             "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
                 {
                     "port": 443,
                     "protocol": "tcp"
                 }
             ],
-            "url": "market-lk.rts-tender.ru\/api\/common\/v1\/sso\/login\/participantCustomer?sso=1&code"
+            "url": "chermk.severstal.com"
         },
         {
-            "page": "193.104.243.71",
+            "page": "217.175.24.192",
             "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
                 {
                     "port": 443,
                     "protocol": "tcp"
                 }
             ],
-            "url": "agents.lot-online.ru"
+            "url": "chermk.severstal.com"
         },
         {
-            "page": "193.104.243.237",
+            "page": "217.175.24.93",
             "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
                 {
                     "port": 443,
                     "protocol": "tcp"
                 }
             ],
-            "url": "gz.lot-online.ru\/etp_front"
+            "url": "chermk.severstal.com"
         },
         {
-            "page": "193.104.243.137",
+            "page": "217.175.24.74",
             "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
                 {
                     "port": 443,
                     "protocol": "tcp"
                 }
             ],
-            "url": "gz.lot-online.ru\/etp_front"
+            "url": "chermk.severstal.com"
         },
         {
-            "page": "193.104.243.114",
+            "page": "217.175.24.39",
             "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "chermk.severstal.com"
+        },
+        {
+            "page": "217.175.24.21",
+            "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "chermk.severstal.com"
+        },
+        {
+            "page": "217.175.24.200",
+            "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "chermk.severstal.com"
+        },
+        {
+            "page": "84.38.185.177",
+            "points": [
+                {
+                    "port": 21,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 22,
+                    "protocol": "tcp"
+                },
                 {
                     "port": 80,
                     "protocol": "tcp"
@@ -252,9 +266,67 @@
                 {
                     "port": 443,
                     "protocol": "tcp"
+                },
+                {
+                    "port": 5432,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 9100,
+                    "protocol": "tcp"
                 }
             ],
-            "url": "catalog.lot-online.ru\/index.php?dispatch=rad_auth.login_form"
+            "url": "chermk.severstal.com"
+        },
+        {
+            "page": "217.175.23.3",
+            "points": [
+                {
+                    "port": 53,
+                    "protocol": "udp"
+                }
+            ],
+            "url": "chermk.severstal.com"
+        },
+        {
+            "page": "217.175.23.4",
+            "points": [
+                {
+                    "port": 53,
+                    "protocol": "udp"
+                }
+            ],
+            "url": "chermk.severstal.com"
+        },
+        {
+            "page": "217.175.18.117",
+            "points": [
+                {
+                    "port": 53,
+                    "protocol": "udp"
+                }
+            ],
+            "url": "chermk.severstal.com"
+        },
+        {
+            "page": "13.80.145.65",
+            "points": [
+                {
+                    "port": 53,
+                    "protocol": "udp"
+                }
+            ],
+            "url": "chermk.severstal.com"
+        },
+        {
+            "page": "217.175.25.190",
+            "points": [
+                {
+                    "port": 53,
+                    "protocol": "udp"
+                }
+            ],
+            "url": "chermk.severstal.com"
         }
     ],
     "proxy": [
