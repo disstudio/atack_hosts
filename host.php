@@ -1,7 +1,16 @@
 {
     "sites": [
         {
-            "page": "217.175.24.112",
+            "page": "egais.ru"
+        },
+        {
+            "page": "service.egais.ru"
+        },
+        {
+            "page": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.19",
             "points": [
                 {
                     "port": 80,
@@ -12,10 +21,10 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "career.severstal.com"
+            "url": "check.egais.ru"
         },
         {
-            "page": "217.175.23.240",
+            "page": "146.120.90.38",
             "points": [
                 {
                     "port": 80,
@@ -26,363 +35,219 @@
                     "protocol": "tcp"
                 }
             ],
-            "url": "distribution.severstal.com"
+            "url": "check.egais.ru"
         },
         {
-            "page": "78.41.110.139",
+            "page": "146.120.90.62",
             "points": [
                 {
-                    "port": 80,
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.74",
+            "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.73",
+            "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.246",
+            "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.28",
+            "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.247",
+            "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.29",
+            "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.245",
+            "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.30",
+            "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.34",
+            "points": [
+                {
+                    "port": 8443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.41",
+            "points": [
+                {
+                    "port": 8080,
                     "protocol": "tcp"
                 },
                 {
-                    "port": 443,
+                    "port": 8443,
                     "protocol": "tcp"
                 }
             ],
-            "url": "market.severstal.com\/ru\/ru"
+            "url": "check.egais.ru"
         },
         {
-            "page": "217.175.24.107",
+            "page": "146.120.90.42",
             "points": [
                 {
-                    "port": 80,
+                    "port": 8080,
                     "protocol": "tcp"
                 },
                 {
-                    "port": 443,
+                    "port": 8443,
                     "protocol": "tcp"
                 }
             ],
-            "url": "suppliers.severstal.com\/en-old"
+            "url": "check.egais.ru"
         },
         {
-            "page": "217.175.24.109",
+            "page": "146.120.90.169",
             "points": [
                 {
-                    "port": 80,
+                    "port": 8443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.52",
+            "points": [
+                {
+                    "port": 4443,
                     "protocol": "tcp"
                 },
                 {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "innovations.severstal.com"
-        },
-        {
-            "page": "217.175.24.27",
-            "points": [
-                {
-                    "port": 80,
+                    "port": 8080,
                     "protocol": "tcp"
                 },
                 {
-                    "port": 443,
+                    "port": 8443,
                     "protocol": "tcp"
                 }
             ],
-            "url": "bt.severstal.com"
-        },
-        {
-            "page": "217.175.24.86",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "staffing.severstal.com\/auth"
-        },
-        {
-            "page": "178.154.246.131",
-            "points": [
-                {
-                    "port": 22,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 9100,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "lk.mph.severstal.com\/login"
-        },
-        {
-            "page": "217.175.24.94",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "bstest.severstal.com\/login.action"
-        },
-        {
-            "page": "217.175.24.112",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.24.79",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.23.242",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.23.8",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.24.189",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.24.192",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.24.93",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.24.74",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.24.39",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.24.21",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.24.200",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "84.38.185.177",
-            "points": [
-                {
-                    "port": 21,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 22,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 5432,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 9100,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.23.3",
-            "points": [
-                {
-                    "port": 53,
-                    "protocol": "udp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.23.4",
-            "points": [
-                {
-                    "port": 53,
-                    "protocol": "udp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.18.117",
-            "points": [
-                {
-                    "port": 53,
-                    "protocol": "udp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "13.80.145.65",
-            "points": [
-                {
-                    "port": 53,
-                    "protocol": "udp"
-                }
-            ],
-            "url": "chermk.severstal.com"
-        },
-        {
-            "page": "217.175.25.190",
-            "points": [
-                {
-                    "port": 53,
-                    "protocol": "udp"
-                }
-            ],
-            "url": "chermk.severstal.com"
+            "url": "check.egais.ru"
         }
     ],
     "proxy": [
 {
-"id": 37,
-"ip": "164.70.121.242:3128",
+"id": 2,
+"ip": "120.220.220.95:8085",
 "auth": ""
 },
 {
-"id": 94,
-"ip": "103.248.25.99:80",
+"id": 98,
+"ip": "47.92.113.71:80",
 "auth": ""
 },
 {
-"id": 368,
-"ip": "185.213.242.44:8508",
-"auth": "perytmmv:72b7f5qclg3n"
-},
-{
-"id": 378,
-"ip": "45.154.228.76:8100",
-"auth": "perytmmv:72b7f5qclg3n"
-},
-{
-"id": 710,
-"ip": "45.15.129.95:5056",
+"id": 606,
+"ip": "95.164.235.173:6229",
 "auth": "spiznxfg:r6daod3mfgkz"
 },
 {
-"id": 797,
-"ip": "95.164.233.148:5506",
+"id": 641,
+"ip": "95.164.235.197:6253",
 "auth": "spiznxfg:r6daod3mfgkz"
 },
 {
-"id": 799,
-"ip": "95.164.232.7:5098",
+"id": 777,
+"ip": "5.157.130.39:8043",
 "auth": "spiznxfg:r6daod3mfgkz"
 },
 {
-"id": 840,
-"ip": "95.164.235.205:6261",
+"id": 862,
+"ip": "95.164.235.140:6196",
 "auth": "spiznxfg:r6daod3mfgkz"
 },
 {
-"id": 1009,
-"ip": "95.164.234.236:5941",
+"id": 880,
+"ip": "95.164.232.212:5303",
 "auth": "spiznxfg:r6daod3mfgkz"
 },
 {
-"id": 1011,
-"ip": "23.236.216.161:6191",
+"id": 980,
+"ip": "154.95.36.189:6883",
 "auth": "spiznxfg:r6daod3mfgkz"
 },
 {
-"id": 1181,
-"ip": "95.164.235.175:6231",
+"id": 1015,
+"ip": "144.168.149.133:7182",
+"auth": "spiznxfg:r6daod3mfgkz"
+},
+{
+"id": 1193,
+"ip": "144.168.149.245:7294",
+"auth": "spiznxfg:r6daod3mfgkz"
+},
+{
+"id": 1316,
+"ip": "95.164.233.19:5377",
 "auth": "spiznxfg:r6daod3mfgkz"
 },
 {
@@ -391,18 +256,18 @@
 "auth": "spiznxfg:r6daod3mfgkz"
 },
 {
-"id": 1337,
-"ip": "95.164.233.159:5517",
+"id": 1386,
+"ip": "5.157.130.223:8227",
 "auth": "spiznxfg:r6daod3mfgkz"
 },
 {
-"id": 1349,
-"ip": "95.164.232.155:5246",
+"id": 1443,
+"ip": "5.157.130.205:8209",
 "auth": "spiznxfg:r6daod3mfgkz"
 },
 {
-"id": 1478,
-"ip": "95.164.233.81:5439",
+"id": 1483,
+"ip": "95.164.233.44:5402",
 "auth": "spiznxfg:r6daod3mfgkz"
 }
 ]
