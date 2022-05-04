@@ -1,13 +1,320 @@
 {
     "sites": [
         {
-            "page": "egais.ru"
+            "page": "185.12.155.115",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "nfo-report.1c.ru"
         },
         {
-            "page": "service.egais.ru"
+            "page": "185.12.155.210",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "downloads.1c.ru"
         },
         {
-            "page": "check.egais.ru"
+            "page": "185.169.155.230",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "v8.1c.ru"
+        },
+        {
+            "page": "185.12.155.124",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "downloads.v8.1c.ru"
+        },
+        {
+            "page": "185.12.155.29",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "login.1c.ru\/login"
+        },
+        {
+            "page": "185.12.155.21",
+            "points": [
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "reputils.1c.ru"
+        },
+        {
+            "page": "185.12.152.27",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "regservice.1c.ru\/regservice\/regservice.asmx"
+        },
+        {
+            "page": "185.12.155.12",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "torg.1c.ru\/equipment\/onlayn-kassy"
+        },
+        {
+            "page": "185.169.155.229",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "online.1c.ru\/catalog\/products"
+        },
+        {
+            "page": "185.12.155.120",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "its.1c.ru"
+        },
+        {
+            "page": "91.239.5.113",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 8080,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 8091,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 8092,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 10000,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "callback.keydisk.ru"
+        },
+        {
+            "page": "31.13.60.76",
+            "points": [
+                {
+                    "port": 25,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 465,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 110,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 995,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "report.keydisk.ru"
+        },
+        {
+            "page": "91.239.5.38",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "invitations.1c-edo.keydisk.ru"
+        },
+        {
+            "page": "193.148.44.187",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "docs.fss.ru"
+        },
+        {
+            "page": "193.148.44.25",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "eln.fss.ru"
+        },
+        {
+            "page": "193.148.44.114",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "sedo.fss.ru"
+        },
+        {
+            "page": "193.148.44.188",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 81,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "lk.fss.ru"
+        },
+        {
+            "page": "83.229.254.40",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 6080,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 8080,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "online.gks.ru\/online"
+        },
+        {
+            "page": "178.248.239.130",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "www.cryptopro.ru"
+        },
+        {
+            "page": "185.169.155.77",
+            "points": [
+                {
+                    "port": 80,
+                    "protocol": "tcp"
+                },
+                {
+                    "port": 443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "getserial.infotecs.ru"
         },
         {
             "page": "146.120.90.19",
@@ -188,6 +495,16 @@
                 },
                 {
                     "port": 8443,
+                    "protocol": "tcp"
+                }
+            ],
+            "url": "check.egais.ru"
+        },
+        {
+            "page": "146.120.90.197",
+            "points": [
+                {
+                    "port": 6443,
                     "protocol": "tcp"
                 }
             ],
