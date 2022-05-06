@@ -1,516 +1,262 @@
-{
+  {
     "sites": [
         {
-            "page": "185.12.155.115",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "nfo-report.1c.ru"
+            "page": "sberbank-ast.ru"
         },
         {
-            "page": "185.12.155.210",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "downloads.1c.ru"
+            "page": "login.sberbank-ast.ru\/Login.aspx"
         },
         {
-            "page": "185.169.155.230",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "v8.1c.ru"
+            "page": "utp.sberbank-ast.ru"
         },
         {
-            "page": "185.12.155.124",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "downloads.v8.1c.ru"
+            "page": "soon.sberbank-ast.ru\/Login.aspx"
         },
         {
-            "page": "185.12.155.29",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "login.1c.ru\/login"
+            "page": "www.roseltorg.ru"
         },
         {
-            "page": "185.12.155.21",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "reputils.1c.ru"
+            "page": "com.roseltorg.ru"
         },
         {
-            "page": "185.12.152.27",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "regservice.1c.ru\/regservice\/regservice.asmx"
+            "page": "docs.roseltorg.ru"
         },
         {
-            "page": "185.12.155.12",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "torg.1c.ru\/equipment\/onlayn-kassy"
+            "page": "agro.roseltorg.ru"
         },
         {
-            "page": "185.169.155.229",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "online.1c.ru\/catalog\/products"
+            "page": "sverdlagro.roseltorg.ru"
         },
         {
-            "page": "185.12.155.120",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "its.1c.ru"
+            "page": "saratovagro.roseltorg.ru"
         },
         {
-            "page": "91.239.5.113",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8080,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8091,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8092,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 10000,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "callback.keydisk.ru"
+            "page": "ryazagro.roseltorg.ru"
         },
         {
-            "page": "31.13.60.76",
-            "points": [
-                {
-                    "port": 25,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 465,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 110,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 995,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "report.keydisk.ru"
+            "page": "vtb.roseltorg.ru"
         },
         {
-            "page": "91.239.5.38",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "invitations.1c-edo.keydisk.ru"
+            "page": "bg.roseltorg.ru"
         },
         {
-            "page": "193.148.44.187",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "docs.fss.ru"
+            "page": "fkr.roseltorg.ru"
         },
         {
-            "page": "193.148.44.25",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "eln.fss.ru"
+            "page": "orders.roseltorg.ru"
         },
         {
-            "page": "193.148.44.114",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "sedo.fss.ru"
+            "page": "kim.roseltorg.ru"
         },
         {
-            "page": "193.148.44.188",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 81,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "lk.fss.ru"
+            "page": "kim-irao.roseltorg.ru"
         },
         {
-            "page": "83.229.254.40",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 6080,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8080,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "online.gks.ru\/online"
+            "page": "rt.roseltorg.ru"
         },
         {
-            "page": "178.248.239.130",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "www.cryptopro.ru"
+            "page": "rosgeo.roseltorg.ru"
         },
         {
-            "page": "185.169.155.77",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "getserial.infotecs.ru"
+            "page": "wmail.roseltorg.ru"
         },
         {
-            "page": "146.120.90.19",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "corplogin.roseltorg.ru"
         },
         {
-            "page": "146.120.90.38",
-            "points": [
-                {
-                    "port": 80,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "dev-178fz-ip.roseltorg.ru"
         },
         {
-            "page": "146.120.90.62",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "dss2.roseltorg.ru"
         },
         {
-            "page": "146.120.90.74",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "ca.roseltorg.ru"
         },
         {
-            "page": "146.120.90.73",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "seeyou.roseltorg.ru"
         },
         {
-            "page": "146.120.90.246",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "www.rts-tender.ru\/poisk"
         },
         {
-            "page": "146.120.90.28",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "www.rosatom.rts-tender.ru\/market"
         },
         {
-            "page": "146.120.90.247",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "api.rts-tender.ru"
         },
         {
-            "page": "146.120.90.29",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "app.rts-tender.ru\/auth\/sso\/login\/participant?ReturnUrl=https%3a%2f%2fapp.rts-tender.ru%2fsupplier%2flk%2f?sso=1?code"
         },
         {
-            "page": "146.120.90.245",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "223.rts-tender.ru\/supplier\/sso\/Login.aspx?ReturnUrl"
         },
         {
-            "page": "146.120.90.30",
-            "points": [
-                {
-                    "port": 443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "it2-auth.rts-tender.ru"
         },
         {
-            "page": "146.120.90.34",
-            "points": [
-                {
-                    "port": 8443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "help.rts-tender.ru\/articles\/list?id=469"
         },
         {
-            "page": "146.120.90.41",
-            "points": [
-                {
-                    "port": 8080,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "market-lk.rts-tender.ru\/api\/common\/v1\/sso\/login\/participantCustomer?sso=1?code"
         },
         {
-            "page": "146.120.90.42",
-            "points": [
-                {
-                    "port": 8080,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "fb.rts-tender.ru\/info\/check-fair\/1"
         },
         {
-            "page": "146.120.90.169",
-            "points": [
-                {
-                    "port": 8443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "etp-ets.ru"
         },
         {
-            "page": "146.120.90.52",
-            "points": [
-                {
-                    "port": 4443,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8080,
-                    "protocol": "tcp"
-                },
-                {
-                    "port": 8443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "223.etp-ets.ru"
         },
         {
-            "page": "146.120.90.197",
-            "points": [
-                {
-                    "port": 6443,
-                    "protocol": "tcp"
-                }
-            ],
-            "url": "check.egais.ru"
+            "page": "fkr.etp-ets.ru"
+        },
+        {
+            "page": "zakazrf.ru"
+        },
+        {
+            "page": "44.zakazrf.ru"
+        },
+        {
+            "page": "www.etp.zakazrf.ru"
+        },
+        {
+            "page": "zakaz2.zakazrf.ru"
+        },
+        {
+            "page": "zakaz3.zakazrf.ru"
+        },
+        {
+            "page": "auth.zakazrf.ru\/OAuth\/Customers"
+        },
+        {
+            "page": "webppo.zakazrf.ru\/Logon"
+        },
+        {
+            "page": "223etp.zakazrf.ru"
+        },
+        {
+            "page": "reg.zakazrf.ru"
+        },
+        {
+            "page": "web-ppo3.zakazrf.ru\/Logon\/Users"
+        },
+        {
+            "page": "webcust223.zakazrf.ru"
+        },
+        {
+            "page": "bankrot.zakazrf.ru"
+        },
+        {
+            "page": "webcust.zakazrf.ru"
+        },
+        {
+            "page": "university.zakazrf.ru"
+        },
+        {
+            "page": "auth.223etpt.zakazrf.ru"
+        },
+        {
+            "page": "rbp.zakazrf.ru"
+        },
+        {
+            "page": "sale.zakazrf.ru"
+        },
+        {
+            "page": "auth.zakaz3.zakazrf.ru"
+        },
+        {
+            "page": "ppo3.zakazrf.ru"
+        },
+        {
+            "page": "etpgpb.ru"
+        },
+        {
+            "page": "passport.etpgpb.ru\/not_auth"
+        },
+        {
+            "page": "etpgaz.gazprombank.ru"
+        },
+        {
+            "page": "edo.etpgpb.ru\/Authorization\/Login"
+        },
+        {
+            "page": "gpn.etpgpb.ru"
+        },
+        {
+            "page": "geh.etpgpb.ru"
+        },
+        {
+            "page": "inter-rao.etpgpb.ru"
+        },
+        {
+            "page": "trade.etpgpb.ru"
+        },
+        {
+            "page": "rosnedra.etpgpb.ru"
+        },
+        {
+            "page": "gb.etpgpb.ru"
+        },
+        {
+            "page": "etp.gpb.ru"
+        },
+        {
+            "page": "apiedo.etpgpb.ru"
+        },
+        {
+            "page": "kross.etpgpb.ru\/Website\/login.aspx"
+        },
+        {
+            "page": "aia.etpgpb.ru"
+        },
+        {
+            "page": "cdp.etpgpb.ru"
+        },
+        {
+            "page": "crm.etpgpb.ru"
+        },
+        {
+            "page": "www.tektorg.ru"
+        },
+        {
+            "page": "44.tektorg.ru\/authentication\/login"
+        },
+        {
+            "page": "rn.tektorg.ru"
+        },
+        {
+            "page": "irao.tektorg.ru"
+        },
+        {
+            "page": "tender.tektorg.ru"
+        },
+        {
+            "page": "gb.tektorg.ru"
+        },
+        {
+            "page": "zakupki.tektorg.ru"
+        },
+        {
+            "page": "sale.tektorg.ru"
+        },
+        {
+            "page": "kim.tektorg.ru"
+        },
+        {
+            "page": "fin.tektorg.ru\/bg"
+        },
+        {
+            "page": "new.tektorg.ru"
+        },
+        {
+            "page": "etpadmin.tektorg.ru"
+        },
+        {
+            "page": "cloud.tektorg.ru\/index.php\/login"
         }
-    ],
+    ]
+,
     "proxy": [
 {
 "id": 2,
